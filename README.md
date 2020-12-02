@@ -1,6 +1,6 @@
 # doom-nukem
 
-A complete graphic project. Creating a new 3D engine using portals algorithme mostly, with the SDL2
+A complete graphic project. Creating a new 3D engine using portals algorithm mostly, with the SDL2
 
 You can change some parameters in the doom.h located in the includes folder. You will have to compile again however. You must have apt-get installed and type down "make sdl", then you can make normally!
 
